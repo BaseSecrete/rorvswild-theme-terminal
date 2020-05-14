@@ -13,7 +13,8 @@ Accessible dark and light themes based on [RoRvsWild](https://www.rorvswild.com)
 * Download the dark or light .terminal file and double-click it to install.
 
 ## Gnome
-* Navigate to the [Gnome folder](https://github.com/BaseSecrete/rorvswild-theme-terminal/tree/master/Gnome)
+* Download source code `git clone git@github.com:BaseSecrete/rorvswild-theme-terminal.git`
+* Go to the [Gnome folder](https://github.com/BaseSecrete/rorvswild-theme-terminal/tree/master/Gnome) `cd rorvswild-theme-terminal/Gnome`
 * Execute `./RorVsWild-dark.sh` or `./RorVsWild-light.sh` to create the Gnome terminal profile
 * Right click in your terminal to select the desired theme from the context menu
 
